@@ -11,6 +11,8 @@
 Version History
 ================
 
+[![Join the chat at https://gitter.im/dowjones/respawn](https://badges.gitter.im/dowjones/respawn.svg)](https://gitter.im/dowjones/respawn?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 __v1.0.3__
 
 * Initial release
